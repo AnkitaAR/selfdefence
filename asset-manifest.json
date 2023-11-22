@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/selfdefence/static/css/main.697a2b58.css",
+    "main.js": "/selfdefence/static/js/main.c81b9615.js",
+    "static/js/787.9dbd77fa.chunk.js": "/selfdefence/static/js/787.9dbd77fa.chunk.js",
+    "static/media/logo.svg": "/selfdefence/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/selfdefence/index.html",
+    "main.697a2b58.css.map": "/selfdefence/static/css/main.697a2b58.css.map",
+    "main.c81b9615.js.map": "/selfdefence/static/js/main.c81b9615.js.map",
+    "787.9dbd77fa.chunk.js.map": "/selfdefence/static/js/787.9dbd77fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.697a2b58.css",
+    "static/js/main.c81b9615.js"
+  ]
+}
