@@ -1,0 +1,25 @@
+p{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family: cursive;
+    font-size:20px;
+}
+body{
+    background-color: white;
+    text-align: left;
+}
+h2{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+video{
+    text-align: center;
+    margin-left: 410px;
+}
+button{
+    text-align: center;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    margin-left: 920px;
+}
